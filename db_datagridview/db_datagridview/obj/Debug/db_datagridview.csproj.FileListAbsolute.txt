@@ -1,0 +1,11 @@
+C:\Users\h-a-m\source\repos\db_datagridview\db_datagridview\bin\Debug\db_datagridview.exe.config
+C:\Users\h-a-m\source\repos\db_datagridview\db_datagridview\bin\Debug\db_datagridview.exe
+C:\Users\h-a-m\source\repos\db_datagridview\db_datagridview\bin\Debug\db_datagridview.pdb
+C:\Users\h-a-m\source\repos\db_datagridview\db_datagridview\obj\Debug\db_datagridview.csproj.AssemblyReference.cache
+C:\Users\h-a-m\source\repos\db_datagridview\db_datagridview\obj\Debug\db_datagridview.csproj.SuggestedBindingRedirects.cache
+C:\Users\h-a-m\source\repos\db_datagridview\db_datagridview\obj\Debug\db_datagridview.Form1.resources
+C:\Users\h-a-m\source\repos\db_datagridview\db_datagridview\obj\Debug\db_datagridview.Properties.Resources.resources
+C:\Users\h-a-m\source\repos\db_datagridview\db_datagridview\obj\Debug\db_datagridview.csproj.GenerateResource.cache
+C:\Users\h-a-m\source\repos\db_datagridview\db_datagridview\obj\Debug\db_datagridview.csproj.CoreCompileInputs.cache
+C:\Users\h-a-m\source\repos\db_datagridview\db_datagridview\obj\Debug\db_datagridview.exe
+C:\Users\h-a-m\source\repos\db_datagridview\db_datagridview\obj\Debug\db_datagridview.pdb
